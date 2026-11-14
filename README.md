@@ -1,6 +1,6 @@
 # Build a Website Design System
 
-A static, single-page website style guide built with plain HTML and CSS. It documents a small design system — a color palette with intended usage, font samples, and typography specifications for headings and body text — so a website's visual language is defined in one place.
+A static, single-page website style guide built with plain HTML and CSS. It documents a small design system, a color palette with intended usage, font samples, and typography specifications for headings and body text, so a website's visual language is defined in one place.
 
 ## Motivation
 
@@ -8,13 +8,13 @@ This project was created as a learning exercise in building a design system: dec
 
 ## Features
 
-- **Color palette** — three color swatches with name, hex code and intended usage:
-  - Walnut Brown `#5C5346` — footer
-  - Desert Sand `#E4BB97` — typography
-  - Pigment Green `#1F9D53` — buttons
-- **Font samples** — Courier New (monospace) and Verdana (sans-serif), each shown in italic, bold and regular
-- **Typography specifications** — font weight, size and family for `h1`, `h2` and `p`
-- **Hover effect** — words in the page title turn italic on hover
+- **Color palette** - three color swatches with name, hex code and intended usage:
+  - Walnut Brown `#5C5346` - footer
+  - Desert Sand `#E4BB97` - typography
+  - Pigment Green `#1F9D53` - buttons
+- **Font samples** - Courier New (monospace) and Verdana (sans-serif), each shown in italic, bold and regular
+- **Typography specifications** - font weight, size and family for `h1`, `h2` and `p`
+- **Hover effect** - words in the page title turn italic on hover
 
 ## Tech/framework used
 
