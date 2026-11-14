@@ -1,0 +1,105 @@
+/* Universal style */
+.italic-h1:hover {
+  font-style: italic;
+}
+
+.italic {
+  font-style: italic
+}
+
+/* Color style */
+.color {
+  border: 1.5px solid gray;
+  padding: 10px;
+  margin: 5px;
+}
+
+.color h2 {
+  text-align: center;
+}
+
+.walnut, .dessert, .pigment {
+  margin: 5px;
+}
+
+.walnut {
+  background-color: #5C5346;
+  text-align: center;
+  color: rgba(240, 240, 240, 0.9);
+  padding: 20px;
+  margin-right: 5px;
+}
+
+.dessert {
+  background-color: #E4BB97;
+  text-align: center;
+  color: rgba(240, 240, 240, 0.9);
+  padding: 20px;
+  margin-right: 5px;
+}
+
+.pigment {
+  background-color: #1F9D53;
+  text-align: center;
+  color: rgba(240, 240, 240, 0.9);
+  padding: 20px;
+  margin-right: 5px;
+}
+
+/* Fonts */
+.font {
+  border: 1.5px solid gray;
+  padding: 10px;
+  margin: 5px;
+}
+
+.font h2 {
+  text-align: center;
+}
+
+.courier-new {
+  font-family: 'Courier New';
+  background-color: rgba(200,200,200,0.1);
+  border-radius: 10px;
+  padding: 5px 5px 5px 20px;
+  margin: 10px 0px;
+}
+
+.courier-new p, .courier-new h3 {
+  text-align: center;
+}
+
+.verdana {
+  font-family: 'Verdana';
+  background-color: rgba(200,200,200,0.1);
+  border-radius: 10px;
+  padding: 5px 5px 5px 20px;
+  margin: 10px 0px;
+}
+
+.verdana p, .verdana h3 {
+  text-align: center;
+}
+
+.italic-font {
+  font-style: italic;
+}
+
+.bold-font {
+  font-weight: bold;
+}
+
+/* Typography */
+.style h1, .style h2, .style p{
+  text-align: left;
+}
+
+.typography {
+  border: 1.5px solid gray;
+  padding: 10px;
+  margin: 5px;
+}
+
+.typography-center {
+  text-align: center;
+}
